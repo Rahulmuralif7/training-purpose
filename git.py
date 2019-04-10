@@ -1,1 +1,1 @@
-kakjjakaKJ
+print('hello')
